@@ -1,0 +1,5 @@
+# Ignore .class files
+*.class
+
+# Ignore .class files in the "bin" directory
+DSA/*.class
