@@ -20,7 +20,7 @@ public class missingNumber {
 
         System.out.println(index);
 
-
+        //Also check the second solution i did on leetcode 
 
     }
 }
